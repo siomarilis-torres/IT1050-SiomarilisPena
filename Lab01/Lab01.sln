@@ -23,3 +23,6 @@ Global
 		SolutionGuid = {F1EFF1EE-E097-41A0-8942-4091722AD042}
 	EndGlobalSection
 EndGlobal
+
+{Console.WriteLine("hello, world!");}
+
