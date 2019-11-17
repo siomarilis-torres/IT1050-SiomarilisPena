@@ -18,6 +18,8 @@ namespace Lab2
             int product = integer1 * integer2;
             Console.WriteLine("Product is {0}", product); // display product
             
+            Console.WriteLine("{0}\n{1}", "Hello World!", "Siomarilis Pena");
+            
             Console.WriteLine("{0}\t{1}", "Hello World!", "Siomarilis Pena");
 
             /*
